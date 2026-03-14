@@ -847,20 +847,8 @@ const HeaderComponent = (props) => {
                   <nav className="header-component-container184">
                     <ul className="header-component-ul14">
                       <li className="header-component-li23">
-                        <Link href={props.containerUrl1?.['url']}>
-                          <a
-                            target={
-                              props.containerUrl1?.['newTab']
-                                ? '_blank'
-                                : undefined
-                            }
-                            rel={
-                              props.containerUrl1?.['newTab']
-                                ? 'noreferrer noopener'
-                                : undefined
-                            }
-                            className="header-component-link41"
-                          >
+                        <Link href="/programs">
+                          <a className="header-component-link41">
                             <div className="header-component-container185">
                               <span className="header-component-text141">
                                 {props.text10 ?? (
@@ -5868,10 +5856,6 @@ HeaderComponent.defaultProps = {
   },
   text42: undefined,
   text61: undefined,
-  containerUrl1: {
-    url: 'learn.html',
-    newTab: false,
-  },
   text28: undefined,
   text12: undefined,
   text391: undefined,
@@ -6126,7 +6110,6 @@ HeaderComponent.propTypes = {
   containerUrl31: PropTypes.object,
   text42: PropTypes.element,
   text61: PropTypes.element,
-  containerUrl1: PropTypes.object,
   text28: PropTypes.element,
   text12: PropTypes.element,
   text391: PropTypes.element,
