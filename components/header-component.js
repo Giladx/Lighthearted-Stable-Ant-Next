@@ -5774,14 +5774,34 @@ const HeaderComponent = (props) => {
             }
           }
           @media (max-width: 479px) {
+            .header-component-container100 {
+              display: flex;
+              flex-direction: column;
+              justify-content: flex-start;
+            }
+            .header-component-thq-sarech-elm {
+              top: 0px;
+            }
+            .header-component-thq-container-elm {
+              top: 0px;
+            }
             .header-component-thq-navbar-interactive-elm {
               padding: var(--dl-layout-space-unit);
+              align-items: center;
             }
             .header-component-container225 {
               align-items: flex-start;
             }
+            .header-component-icon32 {
+              fill: var(--dl-color-theme-accent1);
+            }
             .header-component-thq-mobile-menu-elm {
               padding: 16px;
+            }
+            .header-component-icon34 {
+              fill: #d9d9d9;
+              width: 32px;
+              height: 32px;
             }
           }
         `}
