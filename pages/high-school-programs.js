@@ -4,6 +4,7 @@ import Head from 'next/head'
 import Script from 'dangerous-html/react'
 import { useTranslations } from 'next-intl'
 
+import HeaderComponent from '../components/header-component'
 import Footer from '../components/footer'
 
 const HighSchoolPrograms = (props) => {
@@ -25,6 +26,743 @@ const HighSchoolPrograms = (props) => {
             content="https://lighthearted-stable-ant-g5l4w6.teleporthq.site/high-school-programs"
           />
         </Head>
+        <HeaderComponent
+          text131={
+            <Fragment>
+              <span className="high-school-programs-text100">Donate</span>
+            </Fragment>
+          }
+          text1={
+            <Fragment>
+              <span className="high-school-programs-text101">FAIS</span>
+            </Fragment>
+          }
+          text521={
+            <Fragment>
+              <span className="high-school-programs-text102">
+                Education Watch
+              </span>
+            </Fragment>
+          }
+          text101={
+            <Fragment>
+              <span className="high-school-programs-text103">Resources</span>
+            </Fragment>
+          }
+          text301={
+            <Fragment>
+              <span className="high-school-programs-text104">
+                National Summit 2026
+              </span>
+            </Fragment>
+          }
+          text510={
+            <Fragment>
+              <span className="high-school-programs-text105">Community</span>
+            </Fragment>
+          }
+          text65={
+            <Fragment>
+              <span className="high-school-programs-text106">About</span>
+            </Fragment>
+          }
+          text29={
+            <Fragment>
+              <span className="high-school-programs-text107">College</span>
+            </Fragment>
+          }
+          text18={
+            <Fragment>
+              <span className="high-school-programs-text108"> Press</span>
+            </Fragment>
+          }
+          text311={
+            <Fragment>
+              <span className="high-school-programs-text109">Upcoming</span>
+            </Fragment>
+          }
+          text411={
+            <Fragment>
+              <span className="high-school-programs-text110">S</span>
+            </Fragment>
+          }
+          text571={
+            <Fragment>
+              <span className="high-school-programs-text111">
+                Student Rights
+              </span>
+            </Fragment>
+          }
+          text81={
+            <Fragment>
+              <span className="high-school-programs-text112">Movements</span>
+            </Fragment>
+          }
+          text211={
+            <Fragment>
+              <span className="high-school-programs-text113">
+                {' '}
+                Activism Toolkit
+              </span>
+            </Fragment>
+          }
+          text8={
+            <Fragment>
+              <span className="high-school-programs-text114">Movements</span>
+            </Fragment>
+          }
+          text25={
+            <Fragment>
+              <span className="high-school-programs-text115">
+                Join over 3,500 chapters across the nation fighting for freedom.
+              </span>
+            </Fragment>
+          }
+          text30={
+            <Fragment>
+              <span className="high-school-programs-text116">
+                National Summit 2026
+              </span>
+            </Fragment>
+          }
+          text21={
+            <Fragment>
+              <span className="high-school-programs-text117">
+                {' '}
+                Activism Toolkit
+              </span>
+            </Fragment>
+          }
+          text141={
+            <Fragment>
+              <span className="high-school-programs-text118">
+                {' '}
+                Student Network
+              </span>
+            </Fragment>
+          }
+          text39={
+            <Fragment>
+              <span className="high-school-programs-text119">I</span>
+            </Fragment>
+          }
+          text13={
+            <Fragment>
+              <span className="high-school-programs-text120">Donate</span>
+            </Fragment>
+          }
+          text69={
+            <Fragment>
+              <span className="high-school-programs-text121">Blog</span>
+            </Fragment>
+          }
+          text351={
+            <Fragment>
+              <span className="high-school-programs-text122">F</span>
+            </Fragment>
+          }
+          text59={
+            <Fragment>
+              <span className="high-school-programs-text123">
+                Incident Portal
+              </span>
+            </Fragment>
+          }
+          text67={
+            <Fragment>
+              <span className="high-school-programs-text124">Pricing</span>
+            </Fragment>
+          }
+          text3={
+            <Fragment>
+              <span className="high-school-programs-text125">Contact</span>
+            </Fragment>
+          }
+          text51={
+            <Fragment>
+              <span className="high-school-programs-text126">
+                Culture Apothecary
+              </span>
+            </Fragment>
+          }
+          text42={
+            <Fragment>
+              <span className="high-school-programs-text127"> — Solution</span>
+            </Fragment>
+          }
+          text61={
+            <Fragment>
+              <span className="high-school-programs-text128">Features</span>
+            </Fragment>
+          }
+          text28={
+            <Fragment>
+              <span className="high-school-programs-text129">High School</span>
+            </Fragment>
+          }
+          text12={
+            <Fragment>
+              <span className="high-school-programs-text130">Get Involved</span>
+            </Fragment>
+          }
+          text391={
+            <Fragment>
+              <span className="high-school-programs-text131">I</span>
+            </Fragment>
+          }
+          text121={
+            <Fragment>
+              <span className="high-school-programs-text132">Get Involved</span>
+            </Fragment>
+          }
+          text91={
+            <Fragment>
+              <span className="high-school-programs-text133">News</span>
+            </Fragment>
+          }
+          text15={
+            <Fragment>
+              <span className="high-school-programs-text134"> Programs</span>
+            </Fragment>
+          }
+          text431={
+            <Fragment>
+              <span className="high-school-programs-text135">Parents</span>
+            </Fragment>
+          }
+          text38={
+            <Fragment>
+              <span className="high-school-programs-text136"> — Assess</span>
+            </Fragment>
+          }
+          text36={
+            <Fragment>
+              <span className="high-school-programs-text137"> — Find</span>
+            </Fragment>
+          }
+          text171={
+            <Fragment>
+              <span className="high-school-programs-text138"> Shows</span>
+            </Fragment>
+          }
+          text19={
+            <Fragment>
+              <span className="high-school-programs-text139"> Our Method</span>
+            </Fragment>
+          }
+          text={
+            <Fragment>
+              <span className="high-school-programs-text140">
+                {' '}
+                Press Enter to Search
+              </span>
+            </Fragment>
+          }
+          text26={
+            <Fragment>
+              <span className="high-school-programs-text141">Summit</span>
+            </Fragment>
+          }
+          text491={
+            <Fragment>
+              <span className="high-school-programs-text142">Volunteer</span>
+            </Fragment>
+          }
+          text551={
+            <Fragment>
+              <span className="high-school-programs-text143">
+                Transparency Envoy
+              </span>
+            </Fragment>
+          }
+          text33={
+            <Fragment>
+              <span className="high-school-programs-text144">
+                Press Inquiries
+              </span>
+            </Fragment>
+          }
+          text49={
+            <Fragment>
+              <span className="high-school-programs-text145">Volunteer</span>
+            </Fragment>
+          }
+          text9={
+            <Fragment>
+              <span className="high-school-programs-text146">News</span>
+            </Fragment>
+          }
+          text161={
+            <Fragment>
+              <span className="high-school-programs-text147"> Upcoming</span>
+            </Fragment>
+          }
+          text17={
+            <Fragment>
+              <span className="high-school-programs-text148"> Shows</span>
+            </Fragment>
+          }
+          text6={
+            <Fragment>
+              <span className="high-school-programs-text149">Events</span>
+            </Fragment>
+          }
+          text261={
+            <Fragment>
+              <span className="high-school-programs-text150">Summit</span>
+            </Fragment>
+          }
+          text16={
+            <Fragment>
+              <span className="high-school-programs-text151"> Upcoming</span>
+            </Fragment>
+          }
+          text511={
+            <Fragment>
+              <span className="high-school-programs-text152">
+                Culture Apothecary
+              </span>
+            </Fragment>
+          }
+          text361={
+            <Fragment>
+              <span className="high-school-programs-text153"> — Find</span>
+            </Fragment>
+          }
+          text441={
+            <Fragment>
+              <span className="high-school-programs-text154">Students</span>
+            </Fragment>
+          }
+          text60={
+            <Fragment>
+              <span className="high-school-programs-text155">About</span>
+            </Fragment>
+          }
+          text110={
+            <Fragment>
+              <span className="high-school-programs-text156">FAIS</span>
+            </Fragment>
+          }
+          text68={
+            <Fragment>
+              <span className="high-school-programs-text157">Team</span>
+            </Fragment>
+          }
+          text111={
+            <Fragment>
+              <span className="high-school-programs-text158">Shop</span>
+            </Fragment>
+          }
+          text37={
+            <Fragment>
+              <span className="high-school-programs-text159">A</span>
+            </Fragment>
+          }
+          text63={
+            <Fragment>
+              <span className="high-school-programs-text160">Team</span>
+            </Fragment>
+          }
+          text66={
+            <Fragment>
+              <span className="high-school-programs-text161">Features</span>
+            </Fragment>
+          }
+          text7={
+            <Fragment>
+              <span className="high-school-programs-text162">Media</span>
+            </Fragment>
+          }
+          text271={
+            <Fragment>
+              <span className="high-school-programs-text163">
+                Join a Chapter
+              </span>
+            </Fragment>
+          }
+          text471={
+            <Fragment>
+              <span className="high-school-programs-text164">Apparel</span>
+            </Fragment>
+          }
+          text591={
+            <Fragment>
+              <span className="high-school-programs-text165">
+                Incident Portal
+              </span>
+            </Fragment>
+          }
+          text610={
+            <Fragment>
+              <span className="high-school-programs-text166">Events</span>
+            </Fragment>
+          }
+          text2={
+            <Fragment>
+              <span className="high-school-programs-text167">
+                Fighting Antisemitism in Schools
+              </span>
+            </Fragment>
+          }
+          text10={
+            <Fragment>
+              <span className="high-school-programs-text168">Resources</span>
+            </Fragment>
+          }
+          login={
+            <Fragment>
+              <span className="high-school-programs-text169">Login</span>
+            </Fragment>
+          }
+          text52={
+            <Fragment>
+              <span className="high-school-programs-text170">
+                Education Watch
+              </span>
+            </Fragment>
+          }
+          text461={
+            <Fragment>
+              <span className="high-school-programs-text171">Reporting</span>
+            </Fragment>
+          }
+          text401={
+            <Fragment>
+              <span className="high-school-programs-text172"> — Initiate</span>
+            </Fragment>
+          }
+          text22={
+            <Fragment>
+              <span className="high-school-programs-text173"> FAIS Store</span>
+            </Fragment>
+          }
+          text381={
+            <Fragment>
+              <span className="high-school-programs-text174"> — Assess</span>
+            </Fragment>
+          }
+          text34={
+            <Fragment>
+              <span className="high-school-programs-text175">Media Kit</span>
+            </Fragment>
+          }
+          register={
+            <Fragment>
+              <span className="high-school-programs-text176">Register</span>
+            </Fragment>
+          }
+          text31={
+            <Fragment>
+              <span className="high-school-programs-text177">Upcoming</span>
+            </Fragment>
+          }
+          text221={
+            <Fragment>
+              <span className="high-school-programs-text178"> FAIS Store</span>
+            </Fragment>
+          }
+          text341={
+            <Fragment>
+              <span className="high-school-programs-text179">Media Kit</span>
+            </Fragment>
+          }
+          text32={
+            <Fragment>
+              <span className="high-school-programs-text180">Upcoming</span>
+            </Fragment>
+          }
+          text210={
+            <Fragment>
+              <span className="high-school-programs-text181">
+                Fighting Antisemitism in Schools
+              </span>
+            </Fragment>
+          }
+          text27={
+            <Fragment>
+              <span className="high-school-programs-text182">
+                Join a Chapter
+              </span>
+            </Fragment>
+          }
+          text64={
+            <Fragment>
+              <span className="high-school-programs-text183">Blog</span>
+            </Fragment>
+          }
+          text251={
+            <Fragment>
+              <span className="high-school-programs-text184">
+                Join over 3,500 chapters across the nation fighting for freedom.
+              </span>
+            </Fragment>
+          }
+          text331={
+            <Fragment>
+              <span className="high-school-programs-text185">
+                Press Inquiries
+              </span>
+            </Fragment>
+          }
+          text151={
+            <Fragment>
+              <span className="high-school-programs-text186"> Programs</span>
+            </Fragment>
+          }
+          text57={
+            <Fragment>
+              <span className="high-school-programs-text187">
+                Student Rights
+              </span>
+            </Fragment>
+          }
+          text531={
+            <Fragment>
+              <span className="high-school-programs-text188">
+                School Safety Initiatives
+              </span>
+            </Fragment>
+          }
+          text53={
+            <Fragment>
+              <span className="high-school-programs-text189">
+                School Safety Initiatives
+              </span>
+            </Fragment>
+          }
+          text71={
+            <Fragment>
+              <span className="high-school-programs-text190">Media</span>
+            </Fragment>
+          }
+          text481={
+            <Fragment>
+              <span className="high-school-programs-text191">Gear</span>
+            </Fragment>
+          }
+          text291={
+            <Fragment>
+              <span className="high-school-programs-text192">College</span>
+            </Fragment>
+          }
+          text11={
+            <Fragment>
+              <span className="high-school-programs-text193">Shop</span>
+            </Fragment>
+          }
+          text50={
+            <Fragment>
+              <span className="high-school-programs-text194">
+                Partner with Us
+              </span>
+            </Fragment>
+          }
+          text20={
+            <Fragment>
+              <span className="high-school-programs-text195">
+                {' '}
+                Latest Headlines
+              </span>
+            </Fragment>
+          }
+          text281={
+            <Fragment>
+              <span className="high-school-programs-text196">High School</span>
+            </Fragment>
+          }
+          text44={
+            <Fragment>
+              <span className="high-school-programs-text197">Students</span>
+            </Fragment>
+          }
+          text23={
+            <Fragment>
+              <span className="high-school-programs-text198"> Take Action</span>
+            </Fragment>
+          }
+          text62={
+            <Fragment>
+              <span className="high-school-programs-text199">Pricing</span>
+            </Fragment>
+          }
+          text35={
+            <Fragment>
+              <span className="high-school-programs-text200">F</span>
+            </Fragment>
+          }
+          text451={
+            <Fragment>
+              <span className="high-school-programs-text201">Educators</span>
+            </Fragment>
+          }
+          text24={
+            <Fragment>
+              <span className="high-school-programs-text202">Chapters</span>
+            </Fragment>
+          }
+          text421={
+            <Fragment>
+              <span className="high-school-programs-text203"> — Solution</span>
+            </Fragment>
+          }
+          text14={
+            <Fragment>
+              <span className="high-school-programs-text204">
+                {' '}
+                Student Network
+              </span>
+            </Fragment>
+          }
+          text561={
+            <Fragment>
+              <span className="high-school-programs-text205">
+                Parent Playbook
+              </span>
+            </Fragment>
+          }
+          text46={
+            <Fragment>
+              <span className="high-school-programs-text206">Reporting</span>
+            </Fragment>
+          }
+          text41={
+            <Fragment>
+              <span className="high-school-programs-text207">S</span>
+            </Fragment>
+          }
+          text501={
+            <Fragment>
+              <span className="high-school-programs-text208">
+                Partner with Us
+              </span>
+            </Fragment>
+          }
+          text55={
+            <Fragment>
+              <span className="high-school-programs-text209">
+                Transparency Envoy
+              </span>
+            </Fragment>
+          }
+          text321={
+            <Fragment>
+              <span className="high-school-programs-text210">Upcoming</span>
+            </Fragment>
+          }
+          text48={
+            <Fragment>
+              <span className="high-school-programs-text211">Gear</span>
+            </Fragment>
+          }
+          text201={
+            <Fragment>
+              <span className="high-school-programs-text212">
+                {' '}
+                Latest Headlines
+              </span>
+            </Fragment>
+          }
+          text4={
+            <Fragment>
+              <span className="high-school-programs-text213">
+                {' '}
+                Search
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: ' ',
+                  }}
+                />
+              </span>
+            </Fragment>
+          }
+          text541={
+            <Fragment>
+              <span className="high-school-programs-text214">
+                Educational Expansion
+              </span>
+            </Fragment>
+          }
+          text45={
+            <Fragment>
+              <span className="high-school-programs-text215">Educators</span>
+            </Fragment>
+          }
+          text40={
+            <Fragment>
+              <span className="high-school-programs-text216"> — Initiate</span>
+            </Fragment>
+          }
+          text231={
+            <Fragment>
+              <span className="high-school-programs-text217"> Take Action</span>
+            </Fragment>
+          }
+          text5={
+            <Fragment>
+              <span className="high-school-programs-text218">Community</span>
+            </Fragment>
+          }
+          text241={
+            <Fragment>
+              <span className="high-school-programs-text219">Chapters</span>
+            </Fragment>
+          }
+          text191={
+            <Fragment>
+              <span className="high-school-programs-text220"> Our Method</span>
+            </Fragment>
+          }
+          text181={
+            <Fragment>
+              <span className="high-school-programs-text221"> Press</span>
+            </Fragment>
+          }
+          text581={
+            <Fragment>
+              <span className="high-school-programs-text222">
+                Educator Resources
+              </span>
+            </Fragment>
+          }
+          text371={
+            <Fragment>
+              <span className="high-school-programs-text223">A</span>
+            </Fragment>
+          }
+          text58={
+            <Fragment>
+              <span className="high-school-programs-text224">
+                Educator Resources
+              </span>
+            </Fragment>
+          }
+          text54={
+            <Fragment>
+              <span className="high-school-programs-text225">
+                Educational Expansion
+              </span>
+            </Fragment>
+          }
+          text43={
+            <Fragment>
+              <span className="high-school-programs-text226">Parents</span>
+            </Fragment>
+          }
+          text56={
+            <Fragment>
+              <span className="high-school-programs-text227">
+                Parent Playbook
+              </span>
+            </Fragment>
+          }
+          text47={
+            <Fragment>
+              <span className="high-school-programs-text228">Apparel</span>
+            </Fragment>
+          }
+          rootClassName="header-componentroot-class-name8"
+        ></HeaderComponent>
         <section className="page-hero-section hero-section">
           <div className="hero-video-container">
             <video
@@ -35,7 +773,7 @@ const HighSchoolPrograms = (props) => {
               autoPlay="true"
               playsInline="true"
             ></video>
-            <div className="hero-overlay"></div>
+            <div className="high-school-programs-thq-hero-overlay-elm hero-overlay"></div>
           </div>
           <div className="hero-content">
             <div className="page-hero-label hero-label">
@@ -354,7 +1092,7 @@ opacity: 0;}}
         <Footer
           text={
             <Fragment>
-              <span className="high-school-programs-text20">
+              <span className="high-school-programs-text239">
                 Fighting Antisemitism in Schools (FAIS) is a nationwide movement
                 dedicated to identifying and combating bias in our educational
                 systems through transparency and community action.
@@ -363,7 +1101,7 @@ opacity: 0;}}
           }
           text1={
             <Fragment>
-              <span className="high-school-programs-text21">
+              <span className="high-school-programs-text240">
                 &amp;copy; 2026 Fighting Antisemitism in Schools (FAIS). All
                 Rights Reserved.
               </span>
@@ -371,66 +1109,66 @@ opacity: 0;}}
           }
           text2={
             <Fragment>
-              <span className="high-school-programs-text22">FAIS</span>
+              <span className="high-school-programs-text241">FAIS</span>
             </Fragment>
           }
           text3={
             <Fragment>
-              <span className="high-school-programs-text23">Home</span>
+              <span className="high-school-programs-text242">Home</span>
             </Fragment>
           }
           text4={
             <Fragment>
-              <span className="high-school-programs-text24">Resources</span>
+              <span className="high-school-programs-text243">Resources</span>
             </Fragment>
           }
           text5={
             <Fragment>
-              <span className="high-school-programs-text25">Contact</span>
+              <span className="high-school-programs-text244">Contact</span>
             </Fragment>
           }
           text6={
             <Fragment>
-              <span className="high-school-programs-text26">Get Involved</span>
+              <span className="high-school-programs-text245">Get Involved</span>
             </Fragment>
           }
           text7={
             <Fragment>
-              <span className="high-school-programs-text27">
+              <span className="high-school-programs-text246">
                 Report Incident
               </span>
             </Fragment>
           }
           text8={
             <Fragment>
-              <span className="high-school-programs-text28">Donate</span>
+              <span className="high-school-programs-text247">Donate</span>
             </Fragment>
           }
           text9={
             <Fragment>
-              <span className="high-school-programs-text29">
+              <span className="high-school-programs-text248">
                 Privacy Policy
               </span>
             </Fragment>
           }
           text10={
             <Fragment>
-              <span className="high-school-programs-text30">Terms of Use</span>
+              <span className="high-school-programs-text249">Terms of Use</span>
             </Fragment>
           }
           heading={
             <Fragment>
-              <span className="high-school-programs-text31">Explore</span>
+              <span className="high-school-programs-text250">Explore</span>
             </Fragment>
           }
           heading1={
             <Fragment>
-              <span className="high-school-programs-text32">Take Action</span>
+              <span className="high-school-programs-text251">Take Action</span>
             </Fragment>
           }
           heading2={
             <Fragment>
-              <span className="high-school-programs-text33">Legal</span>
+              <span className="high-school-programs-text252">Legal</span>
             </Fragment>
           }
         ></Footer>
@@ -440,6 +1178,396 @@ opacity: 0;}}
           .high-school-programs-container1 {
             width: 100%;
             min-height: 100vh;
+          }
+          .high-school-programs-text100 {
+            display: inline-block;
+          }
+          .high-school-programs-text101 {
+            display: inline-block;
+          }
+          .high-school-programs-text102 {
+            display: inline-block;
+          }
+          .high-school-programs-text103 {
+            display: inline-block;
+          }
+          .high-school-programs-text104 {
+            display: inline-block;
+          }
+          .high-school-programs-text105 {
+            display: inline-block;
+          }
+          .high-school-programs-text106 {
+            display: inline-block;
+          }
+          .high-school-programs-text107 {
+            display: inline-block;
+          }
+          .high-school-programs-text108 {
+            display: inline-block;
+          }
+          .high-school-programs-text109 {
+            display: inline-block;
+          }
+          .high-school-programs-text110 {
+            display: inline-block;
+          }
+          .high-school-programs-text111 {
+            display: inline-block;
+          }
+          .high-school-programs-text112 {
+            display: inline-block;
+          }
+          .high-school-programs-text113 {
+            display: inline-block;
+          }
+          .high-school-programs-text114 {
+            display: inline-block;
+          }
+          .high-school-programs-text115 {
+            display: inline-block;
+          }
+          .high-school-programs-text116 {
+            display: inline-block;
+          }
+          .high-school-programs-text117 {
+            display: inline-block;
+          }
+          .high-school-programs-text118 {
+            display: inline-block;
+          }
+          .high-school-programs-text119 {
+            display: inline-block;
+          }
+          .high-school-programs-text120 {
+            display: inline-block;
+          }
+          .high-school-programs-text121 {
+            display: inline-block;
+          }
+          .high-school-programs-text122 {
+            display: inline-block;
+          }
+          .high-school-programs-text123 {
+            display: inline-block;
+          }
+          .high-school-programs-text124 {
+            display: inline-block;
+          }
+          .high-school-programs-text125 {
+            display: inline-block;
+          }
+          .high-school-programs-text126 {
+            display: inline-block;
+          }
+          .high-school-programs-text127 {
+            display: inline-block;
+          }
+          .high-school-programs-text128 {
+            display: inline-block;
+          }
+          .high-school-programs-text129 {
+            display: inline-block;
+          }
+          .high-school-programs-text130 {
+            display: inline-block;
+          }
+          .high-school-programs-text131 {
+            display: inline-block;
+          }
+          .high-school-programs-text132 {
+            display: inline-block;
+          }
+          .high-school-programs-text133 {
+            display: inline-block;
+          }
+          .high-school-programs-text134 {
+            display: inline-block;
+          }
+          .high-school-programs-text135 {
+            display: inline-block;
+          }
+          .high-school-programs-text136 {
+            display: inline-block;
+          }
+          .high-school-programs-text137 {
+            display: inline-block;
+          }
+          .high-school-programs-text138 {
+            display: inline-block;
+          }
+          .high-school-programs-text139 {
+            display: inline-block;
+          }
+          .high-school-programs-text140 {
+            display: inline-block;
+          }
+          .high-school-programs-text141 {
+            display: inline-block;
+          }
+          .high-school-programs-text142 {
+            display: inline-block;
+          }
+          .high-school-programs-text143 {
+            display: inline-block;
+          }
+          .high-school-programs-text144 {
+            display: inline-block;
+          }
+          .high-school-programs-text145 {
+            display: inline-block;
+          }
+          .high-school-programs-text146 {
+            display: inline-block;
+          }
+          .high-school-programs-text147 {
+            display: inline-block;
+          }
+          .high-school-programs-text148 {
+            display: inline-block;
+          }
+          .high-school-programs-text149 {
+            display: inline-block;
+          }
+          .high-school-programs-text150 {
+            display: inline-block;
+          }
+          .high-school-programs-text151 {
+            display: inline-block;
+          }
+          .high-school-programs-text152 {
+            display: inline-block;
+          }
+          .high-school-programs-text153 {
+            display: inline-block;
+          }
+          .high-school-programs-text154 {
+            display: inline-block;
+          }
+          .high-school-programs-text155 {
+            display: inline-block;
+          }
+          .high-school-programs-text156 {
+            display: inline-block;
+          }
+          .high-school-programs-text157 {
+            display: inline-block;
+          }
+          .high-school-programs-text158 {
+            display: inline-block;
+          }
+          .high-school-programs-text159 {
+            display: inline-block;
+          }
+          .high-school-programs-text160 {
+            display: inline-block;
+          }
+          .high-school-programs-text161 {
+            display: inline-block;
+          }
+          .high-school-programs-text162 {
+            display: inline-block;
+          }
+          .high-school-programs-text163 {
+            display: inline-block;
+          }
+          .high-school-programs-text164 {
+            display: inline-block;
+          }
+          .high-school-programs-text165 {
+            display: inline-block;
+          }
+          .high-school-programs-text166 {
+            display: inline-block;
+          }
+          .high-school-programs-text167 {
+            display: inline-block;
+          }
+          .high-school-programs-text168 {
+            display: inline-block;
+          }
+          .high-school-programs-text169 {
+            display: inline-block;
+          }
+          .high-school-programs-text170 {
+            display: inline-block;
+          }
+          .high-school-programs-text171 {
+            display: inline-block;
+          }
+          .high-school-programs-text172 {
+            display: inline-block;
+          }
+          .high-school-programs-text173 {
+            display: inline-block;
+          }
+          .high-school-programs-text174 {
+            display: inline-block;
+          }
+          .high-school-programs-text175 {
+            display: inline-block;
+          }
+          .high-school-programs-text176 {
+            display: inline-block;
+          }
+          .high-school-programs-text177 {
+            display: inline-block;
+          }
+          .high-school-programs-text178 {
+            display: inline-block;
+          }
+          .high-school-programs-text179 {
+            display: inline-block;
+          }
+          .high-school-programs-text180 {
+            display: inline-block;
+          }
+          .high-school-programs-text181 {
+            display: inline-block;
+          }
+          .high-school-programs-text182 {
+            display: inline-block;
+          }
+          .high-school-programs-text183 {
+            display: inline-block;
+          }
+          .high-school-programs-text184 {
+            display: inline-block;
+          }
+          .high-school-programs-text185 {
+            display: inline-block;
+          }
+          .high-school-programs-text186 {
+            display: inline-block;
+          }
+          .high-school-programs-text187 {
+            display: inline-block;
+          }
+          .high-school-programs-text188 {
+            display: inline-block;
+          }
+          .high-school-programs-text189 {
+            display: inline-block;
+          }
+          .high-school-programs-text190 {
+            display: inline-block;
+          }
+          .high-school-programs-text191 {
+            display: inline-block;
+          }
+          .high-school-programs-text192 {
+            display: inline-block;
+          }
+          .high-school-programs-text193 {
+            display: inline-block;
+          }
+          .high-school-programs-text194 {
+            display: inline-block;
+          }
+          .high-school-programs-text195 {
+            display: inline-block;
+          }
+          .high-school-programs-text196 {
+            display: inline-block;
+          }
+          .high-school-programs-text197 {
+            display: inline-block;
+          }
+          .high-school-programs-text198 {
+            display: inline-block;
+          }
+          .high-school-programs-text199 {
+            display: inline-block;
+          }
+          .high-school-programs-text200 {
+            display: inline-block;
+          }
+          .high-school-programs-text201 {
+            display: inline-block;
+          }
+          .high-school-programs-text202 {
+            display: inline-block;
+          }
+          .high-school-programs-text203 {
+            display: inline-block;
+          }
+          .high-school-programs-text204 {
+            display: inline-block;
+          }
+          .high-school-programs-text205 {
+            display: inline-block;
+          }
+          .high-school-programs-text206 {
+            display: inline-block;
+          }
+          .high-school-programs-text207 {
+            display: inline-block;
+          }
+          .high-school-programs-text208 {
+            display: inline-block;
+          }
+          .high-school-programs-text209 {
+            display: inline-block;
+          }
+          .high-school-programs-text210 {
+            display: inline-block;
+          }
+          .high-school-programs-text211 {
+            display: inline-block;
+          }
+          .high-school-programs-text212 {
+            display: inline-block;
+          }
+          .high-school-programs-text213 {
+            display: inline-block;
+          }
+          .high-school-programs-text214 {
+            display: inline-block;
+          }
+          .high-school-programs-text215 {
+            display: inline-block;
+          }
+          .high-school-programs-text216 {
+            display: inline-block;
+          }
+          .high-school-programs-text217 {
+            display: inline-block;
+          }
+          .high-school-programs-text218 {
+            display: inline-block;
+          }
+          .high-school-programs-text219 {
+            display: inline-block;
+          }
+          .high-school-programs-text220 {
+            display: inline-block;
+          }
+          .high-school-programs-text221 {
+            display: inline-block;
+          }
+          .high-school-programs-text222 {
+            display: inline-block;
+          }
+          .high-school-programs-text223 {
+            display: inline-block;
+          }
+          .high-school-programs-text224 {
+            display: inline-block;
+          }
+          .high-school-programs-text225 {
+            display: inline-block;
+          }
+          .high-school-programs-text226 {
+            display: inline-block;
+          }
+          .high-school-programs-text227 {
+            display: inline-block;
+          }
+          .high-school-programs-text228 {
+            display: inline-block;
+          }
+          .high-school-programs-thq-hero-overlay-elm {
+            margin-top: var(--dl-layout-space-fiveunits);
           }
           .high-school-programs-container4 {
             display: none;
@@ -453,46 +1581,46 @@ opacity: 0;}}
           .high-school-programs-container7 {
             display: contents;
           }
-          .high-school-programs-text20 {
+          .high-school-programs-text239 {
             display: inline-block;
           }
-          .high-school-programs-text21 {
+          .high-school-programs-text240 {
             display: inline-block;
           }
-          .high-school-programs-text22 {
+          .high-school-programs-text241 {
             display: inline-block;
           }
-          .high-school-programs-text23 {
+          .high-school-programs-text242 {
             display: inline-block;
           }
-          .high-school-programs-text24 {
+          .high-school-programs-text243 {
             display: inline-block;
           }
-          .high-school-programs-text25 {
+          .high-school-programs-text244 {
             display: inline-block;
           }
-          .high-school-programs-text26 {
+          .high-school-programs-text245 {
             display: inline-block;
           }
-          .high-school-programs-text27 {
+          .high-school-programs-text246 {
             display: inline-block;
           }
-          .high-school-programs-text28 {
+          .high-school-programs-text247 {
             display: inline-block;
           }
-          .high-school-programs-text29 {
+          .high-school-programs-text248 {
             display: inline-block;
           }
-          .high-school-programs-text30 {
+          .high-school-programs-text249 {
             display: inline-block;
           }
-          .high-school-programs-text31 {
+          .high-school-programs-text250 {
             display: inline-block;
           }
-          .high-school-programs-text32 {
+          .high-school-programs-text251 {
             display: inline-block;
           }
-          .high-school-programs-text33 {
+          .high-school-programs-text252 {
             display: inline-block;
           }
         `}

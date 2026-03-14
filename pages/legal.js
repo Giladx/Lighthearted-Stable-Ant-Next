@@ -1639,7 +1639,9 @@ opacity: 0;}
           .legal-thq-thq-legal-hero-elm-elm {
             width: 100%;
             margin-top: var(--dl-layout-space-fiveunits);
-            margin-bottom: var(--dl-layout-space-fiveunits);
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-bottom: 0px;
           }
           .legal-thq-thq-privacy-section-elm-elm {
             width: 100%;

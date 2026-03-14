@@ -1095,7 +1095,7 @@ const Home = (props) => {
         <section className="home-thq-legal-elm">
           <div className="home-container149">
             <div className="home-container150">
-              <div>
+              <div className="home-container151">
                 <span className="home-text280">Legal Info</span>
                 <h2 className="home-text281">Know Your Rights</h2>
                 <p className="home-text282">
@@ -4980,20 +4980,84 @@ const Home = (props) => {
             .home-container111 {
               display: block;
             }
+            .home-container112 {
+              margin-top: 0px;
+              margin-bottom: var(--dl-layout-space-unit);
+            }
+            .home-container115 {
+              margin-top: 0px;
+              margin-bottom: var(--dl-layout-space-unit);
+            }
+            .home-container118 {
+              margin-top: 0px;
+              margin-bottom: var(--dl-layout-space-unit);
+            }
+            .home-container121 {
+              margin-top: 0px;
+              margin-bottom: var(--dl-layout-space-unit);
+            }
             .home-container127 {
               display: block;
+            }
+            .home-container128 {
+              margin-bottom: var(--dl-layout-space-unit);
+            }
+            .home-container131 {
+              margin-bottom: var(--dl-layout-space-unit);
+            }
+            .home-container134 {
+              margin-bottom: var(--dl-layout-space-unit);
+            }
+            .home-container137 {
+              margin-bottom: var(--dl-layout-space-unit);
             }
             .home-container142 {
               display: block;
             }
+            .home-container143 {
+              margin-bottom: var(--dl-layout-space-unit);
+            }
+            .home-container145 {
+              margin-bottom: var(--dl-layout-space-unit);
+            }
+            .home-container147 {
+              margin-bottom: var(--dl-layout-space-unit);
+            }
             .home-container150 {
               display: block;
+            }
+            .home-container151 {
+              margin-top: var(--dl-layout-space-unit);
+            }
+            .home-container153 {
+              margin-top: var(--dl-layout-space-unit);
             }
             .home-container162 {
               display: block;
             }
+            .home-container163 {
+              margin-top: var(--dl-layout-space-unit);
+            }
+            .home-container165 {
+              margin-top: var(--dl-layout-space-unit);
+            }
+            .home-container167 {
+              margin-top: var(--dl-layout-space-unit);
+            }
+            .home-container169 {
+              margin-top: var(--dl-layout-space-unit);
+            }
+            .home-container171 {
+              margin-top: var(--dl-layout-space-unit);
+            }
             .home-container177 {
               display: block;
+            }
+            .home-container178 {
+              margin-top: var(--dl-layout-space-unit);
+            }
+            .home-container181 {
+              margin-top: var(--dl-layout-space-unit);
             }
             .home-container186 {
               padding-left: 0px;
