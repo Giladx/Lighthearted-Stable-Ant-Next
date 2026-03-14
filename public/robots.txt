@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://lighthearted-stable-ant-g5l4w6.teleporthq.site/sitemap.xml
