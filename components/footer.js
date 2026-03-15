@@ -335,7 +335,7 @@ const Footer = (props) => {
             padding: 80px 0 40px;
             position: relative;
             background: #111;
-            font-family: '' 'Poppins', sans-serif '';
+            font-family: '' '' '' "'Poppins', sans-serif" '' '' '';
           }
           .footer-container10 {
             margin: 0 auto;
@@ -367,13 +367,13 @@ const Footer = (props) => {
             letter-spacing: -1px;
           }
           .footer-text11 {
-            color: #888;
+            color: #ffffff;
             font-size: 0.85rem;
             max-width: 290px;
             line-height: 1.65;
           }
           .footer-text12 {
-            color: #e31b23;
+            color: #ffffff;
             font-size: 0.78rem;
             font-weight: 800;
             margin-bottom: 22px;
@@ -387,7 +387,7 @@ const Footer = (props) => {
             margin-bottom: 12px;
           }
           .footer-container15 {
-            color: #888;
+            color: #ffffff;
             font-size: 0.9rem;
             text-decoration: none;
           }
@@ -395,7 +395,7 @@ const Footer = (props) => {
             margin-bottom: 12px;
           }
           .footer-container16 {
-            color: #888;
+            color: #ffffff;
             font-size: 0.9rem;
             text-decoration: none;
           }
@@ -403,12 +403,12 @@ const Footer = (props) => {
             margin-bottom: 12px;
           }
           .footer-container17 {
-            color: #888;
+            color: #ffffff;
             font-size: 0.9rem;
             text-decoration: none;
           }
           .footer-text16 {
-            color: #e31b23;
+            color: #ffffff;
             font-size: 0.78rem;
             font-weight: 800;
             margin-bottom: 22px;
@@ -422,7 +422,7 @@ const Footer = (props) => {
             margin-bottom: 12px;
           }
           .footer-container19 {
-            color: #888;
+            color: #ffffff;
             font-size: 0.9rem;
             text-decoration: none;
           }
@@ -430,7 +430,7 @@ const Footer = (props) => {
             margin-bottom: 12px;
           }
           .footer-container20 {
-            color: #888;
+            color: #ffffff;
             font-size: 0.9rem;
             text-decoration: none;
           }
@@ -438,12 +438,12 @@ const Footer = (props) => {
             margin-bottom: 12px;
           }
           .footer-container21 {
-            color: #888;
+            color: #ffffff;
             font-size: 0.9rem;
             text-decoration: none;
           }
           .footer-text20 {
-            color: #e31b23;
+            color: #ffffff;
             font-size: 0.78rem;
             font-weight: 800;
             margin-bottom: 22px;
@@ -457,7 +457,7 @@ const Footer = (props) => {
             margin-bottom: 12px;
           }
           .footer-container23 {
-            color: #888;
+            color: #ffffff;
             font-size: 0.9rem;
             text-decoration: none;
           }
@@ -465,7 +465,7 @@ const Footer = (props) => {
             margin-bottom: 12px;
           }
           .footer-container24 {
-            color: #888;
+            color: #ffffff;
             font-size: 0.9rem;
             text-decoration: none;
           }
@@ -478,7 +478,7 @@ const Footer = (props) => {
             justify-content: space-between;
           }
           .footer-container26 {
-            color: #555;
+            color: #ffffff;
             font-size: 0.75rem;
           }
           .footer-container27 {
@@ -489,7 +489,7 @@ const Footer = (props) => {
             display: contents;
           }
           .footer-container28 {
-            color: #555;
+            color: #ffffff;
             display: flex;
             align-items: center;
           }
@@ -497,7 +497,7 @@ const Footer = (props) => {
             display: contents;
           }
           .footer-container29 {
-            color: #555;
+            color: #ffffff;
             display: flex;
             align-items: center;
           }
@@ -505,7 +505,7 @@ const Footer = (props) => {
             display: contents;
           }
           .footer-container30 {
-            color: #555;
+            color: #ffffff;
             display: flex;
             align-items: center;
           }
@@ -513,7 +513,7 @@ const Footer = (props) => {
             display: contents;
           }
           .footer-container31 {
-            color: #555;
+            color: #ffffff;
             display: flex;
             align-items: center;
           }

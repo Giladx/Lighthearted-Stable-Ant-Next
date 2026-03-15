@@ -8,12 +8,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lighthearted-stable-ant-g5l4w6.teleporthq.site/page</loc>
-    <lastmod>2026-03-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://lighthearted-stable-ant-g5l4w6.teleporthq.site/who-we-are</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,19 +50,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lighthearted-stable-ant-g5l4w6.teleporthq.site/high-school-programs</loc>
+    <loc>https://lighthearted-stable-ant-g5l4w6.teleporthq.site/page</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lighthearted-stable-ant-g5l4w6.teleporthq.site/founders</loc>
-    <lastmod>2026-03-12</lastmod>
+    <loc>https://lighthearted-stable-ant-g5l4w6.teleporthq.site/high-school-programs</loc>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lighthearted-stable-ant-g5l4w6.teleporthq.site/page1</loc>
+    <loc>https://lighthearted-stable-ant-g5l4w6.teleporthq.site/american-antisemitism</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://lighthearted-stable-ant-g5l4w6.teleporthq.site/founders</loc>
     <lastmod>2026-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

@@ -27,645 +27,39 @@ const HighSchoolPrograms = (props) => {
           />
         </Head>
         <HeaderComponent
-          text131={
-            <Fragment>
-              <span className="high-school-programs-text100">Donate</span>
-            </Fragment>
-          }
-          text1={
-            <Fragment>
-              <span className="high-school-programs-text101">FAIS</span>
-            </Fragment>
-          }
-          text521={
-            <Fragment>
-              <span className="high-school-programs-text102">
-                Education Watch
-              </span>
-            </Fragment>
-          }
-          text101={
-            <Fragment>
-              <span className="high-school-programs-text103">Resources</span>
-            </Fragment>
-          }
-          text301={
-            <Fragment>
-              <span className="high-school-programs-text104">
-                National Summit 2026
-              </span>
-            </Fragment>
-          }
-          text510={
-            <Fragment>
-              <span className="high-school-programs-text105">Community</span>
-            </Fragment>
-          }
-          text65={
-            <Fragment>
-              <span className="high-school-programs-text106">About</span>
-            </Fragment>
-          }
-          text29={
-            <Fragment>
-              <span className="high-school-programs-text107">College</span>
-            </Fragment>
-          }
-          text18={
-            <Fragment>
-              <span className="high-school-programs-text108"> Press</span>
-            </Fragment>
-          }
-          text311={
-            <Fragment>
-              <span className="high-school-programs-text109">Upcoming</span>
-            </Fragment>
-          }
-          text411={
-            <Fragment>
-              <span className="high-school-programs-text110">S</span>
-            </Fragment>
-          }
-          text571={
-            <Fragment>
-              <span className="high-school-programs-text111">
-                Student Rights
-              </span>
-            </Fragment>
-          }
-          text81={
-            <Fragment>
-              <span className="high-school-programs-text112">Movements</span>
-            </Fragment>
-          }
-          text211={
-            <Fragment>
-              <span className="high-school-programs-text113">
-                {' '}
-                Activism Toolkit
-              </span>
-            </Fragment>
-          }
-          text8={
-            <Fragment>
-              <span className="high-school-programs-text114">Movements</span>
-            </Fragment>
-          }
-          text25={
-            <Fragment>
-              <span className="high-school-programs-text115">
-                Join over 3,500 chapters across the nation fighting for freedom.
-              </span>
-            </Fragment>
-          }
-          text30={
-            <Fragment>
-              <span className="high-school-programs-text116">
-                National Summit 2026
-              </span>
-            </Fragment>
-          }
-          text21={
-            <Fragment>
-              <span className="high-school-programs-text117">
-                {' '}
-                Activism Toolkit
-              </span>
-            </Fragment>
-          }
-          text141={
-            <Fragment>
-              <span className="high-school-programs-text118">
-                {' '}
-                Student Network
-              </span>
-            </Fragment>
-          }
-          text39={
-            <Fragment>
-              <span className="high-school-programs-text119">I</span>
-            </Fragment>
-          }
-          text13={
-            <Fragment>
-              <span className="high-school-programs-text120">Donate</span>
-            </Fragment>
-          }
-          text69={
-            <Fragment>
-              <span className="high-school-programs-text121">Blog</span>
-            </Fragment>
-          }
-          text351={
-            <Fragment>
-              <span className="high-school-programs-text122">F</span>
-            </Fragment>
-          }
-          text59={
-            <Fragment>
-              <span className="high-school-programs-text123">
-                Incident Portal
-              </span>
-            </Fragment>
-          }
-          text67={
-            <Fragment>
-              <span className="high-school-programs-text124">Pricing</span>
-            </Fragment>
-          }
-          text3={
-            <Fragment>
-              <span className="high-school-programs-text125">Contact</span>
-            </Fragment>
-          }
-          text51={
-            <Fragment>
-              <span className="high-school-programs-text126">
-                Culture Apothecary
-              </span>
-            </Fragment>
-          }
-          text42={
-            <Fragment>
-              <span className="high-school-programs-text127"> — Solution</span>
-            </Fragment>
-          }
-          text61={
-            <Fragment>
-              <span className="high-school-programs-text128">Features</span>
-            </Fragment>
-          }
-          text28={
-            <Fragment>
-              <span className="high-school-programs-text129">High School</span>
-            </Fragment>
-          }
-          text12={
-            <Fragment>
-              <span className="high-school-programs-text130">Get Involved</span>
-            </Fragment>
-          }
-          text391={
-            <Fragment>
-              <span className="high-school-programs-text131">I</span>
-            </Fragment>
-          }
-          text121={
-            <Fragment>
-              <span className="high-school-programs-text132">Get Involved</span>
-            </Fragment>
-          }
-          text91={
-            <Fragment>
-              <span className="high-school-programs-text133">News</span>
-            </Fragment>
-          }
-          text15={
-            <Fragment>
-              <span className="high-school-programs-text134"> Programs</span>
-            </Fragment>
-          }
-          text431={
-            <Fragment>
-              <span className="high-school-programs-text135">Parents</span>
-            </Fragment>
-          }
-          text38={
-            <Fragment>
-              <span className="high-school-programs-text136"> — Assess</span>
-            </Fragment>
-          }
-          text36={
-            <Fragment>
-              <span className="high-school-programs-text137"> — Find</span>
-            </Fragment>
-          }
-          text171={
-            <Fragment>
-              <span className="high-school-programs-text138"> Shows</span>
-            </Fragment>
-          }
-          text19={
-            <Fragment>
-              <span className="high-school-programs-text139"> Our Method</span>
-            </Fragment>
-          }
           text={
             <Fragment>
-              <span className="high-school-programs-text140">
+              <span className="high-school-programs-text100">
                 {' '}
                 Press Enter to Search
               </span>
             </Fragment>
           }
-          text26={
+          login={
             <Fragment>
-              <span className="high-school-programs-text141">Summit</span>
+              <span className="high-school-programs-text101">Login</span>
             </Fragment>
           }
-          text491={
+          text1={
             <Fragment>
-              <span className="high-school-programs-text142">Volunteer</span>
-            </Fragment>
-          }
-          text551={
-            <Fragment>
-              <span className="high-school-programs-text143">
-                Transparency Envoy
-              </span>
-            </Fragment>
-          }
-          text33={
-            <Fragment>
-              <span className="high-school-programs-text144">
-                Press Inquiries
-              </span>
-            </Fragment>
-          }
-          text49={
-            <Fragment>
-              <span className="high-school-programs-text145">Volunteer</span>
-            </Fragment>
-          }
-          text9={
-            <Fragment>
-              <span className="high-school-programs-text146">News</span>
-            </Fragment>
-          }
-          text161={
-            <Fragment>
-              <span className="high-school-programs-text147"> Upcoming</span>
-            </Fragment>
-          }
-          text17={
-            <Fragment>
-              <span className="high-school-programs-text148"> Shows</span>
-            </Fragment>
-          }
-          text6={
-            <Fragment>
-              <span className="high-school-programs-text149">Events</span>
-            </Fragment>
-          }
-          text261={
-            <Fragment>
-              <span className="high-school-programs-text150">Summit</span>
-            </Fragment>
-          }
-          text16={
-            <Fragment>
-              <span className="high-school-programs-text151"> Upcoming</span>
-            </Fragment>
-          }
-          text511={
-            <Fragment>
-              <span className="high-school-programs-text152">
-                Culture Apothecary
-              </span>
-            </Fragment>
-          }
-          text361={
-            <Fragment>
-              <span className="high-school-programs-text153"> — Find</span>
-            </Fragment>
-          }
-          text441={
-            <Fragment>
-              <span className="high-school-programs-text154">Students</span>
-            </Fragment>
-          }
-          text60={
-            <Fragment>
-              <span className="high-school-programs-text155">About</span>
-            </Fragment>
-          }
-          text110={
-            <Fragment>
-              <span className="high-school-programs-text156">FAIS</span>
-            </Fragment>
-          }
-          text68={
-            <Fragment>
-              <span className="high-school-programs-text157">Team</span>
-            </Fragment>
-          }
-          text111={
-            <Fragment>
-              <span className="high-school-programs-text158">Shop</span>
-            </Fragment>
-          }
-          text37={
-            <Fragment>
-              <span className="high-school-programs-text159">A</span>
-            </Fragment>
-          }
-          text63={
-            <Fragment>
-              <span className="high-school-programs-text160">Team</span>
-            </Fragment>
-          }
-          text66={
-            <Fragment>
-              <span className="high-school-programs-text161">Features</span>
-            </Fragment>
-          }
-          text7={
-            <Fragment>
-              <span className="high-school-programs-text162">Media</span>
-            </Fragment>
-          }
-          text271={
-            <Fragment>
-              <span className="high-school-programs-text163">
-                Join a Chapter
-              </span>
-            </Fragment>
-          }
-          text471={
-            <Fragment>
-              <span className="high-school-programs-text164">Apparel</span>
-            </Fragment>
-          }
-          text591={
-            <Fragment>
-              <span className="high-school-programs-text165">
-                Incident Portal
-              </span>
-            </Fragment>
-          }
-          text610={
-            <Fragment>
-              <span className="high-school-programs-text166">Events</span>
+              <span className="high-school-programs-text102">FAIS</span>
             </Fragment>
           }
           text2={
             <Fragment>
-              <span className="high-school-programs-text167">
+              <span className="high-school-programs-text103">
                 Fighting Antisemitism in Schools
               </span>
             </Fragment>
           }
-          text10={
+          text3={
             <Fragment>
-              <span className="high-school-programs-text168">Resources</span>
-            </Fragment>
-          }
-          login={
-            <Fragment>
-              <span className="high-school-programs-text169">Login</span>
-            </Fragment>
-          }
-          text52={
-            <Fragment>
-              <span className="high-school-programs-text170">
-                Education Watch
-              </span>
-            </Fragment>
-          }
-          text461={
-            <Fragment>
-              <span className="high-school-programs-text171">Reporting</span>
-            </Fragment>
-          }
-          text401={
-            <Fragment>
-              <span className="high-school-programs-text172"> — Initiate</span>
-            </Fragment>
-          }
-          text22={
-            <Fragment>
-              <span className="high-school-programs-text173"> FAIS Store</span>
-            </Fragment>
-          }
-          text381={
-            <Fragment>
-              <span className="high-school-programs-text174"> — Assess</span>
-            </Fragment>
-          }
-          text34={
-            <Fragment>
-              <span className="high-school-programs-text175">Media Kit</span>
-            </Fragment>
-          }
-          register={
-            <Fragment>
-              <span className="high-school-programs-text176">Register</span>
-            </Fragment>
-          }
-          text31={
-            <Fragment>
-              <span className="high-school-programs-text177">Upcoming</span>
-            </Fragment>
-          }
-          text221={
-            <Fragment>
-              <span className="high-school-programs-text178"> FAIS Store</span>
-            </Fragment>
-          }
-          text341={
-            <Fragment>
-              <span className="high-school-programs-text179">Media Kit</span>
-            </Fragment>
-          }
-          text32={
-            <Fragment>
-              <span className="high-school-programs-text180">Upcoming</span>
-            </Fragment>
-          }
-          text210={
-            <Fragment>
-              <span className="high-school-programs-text181">
-                Fighting Antisemitism in Schools
-              </span>
-            </Fragment>
-          }
-          text27={
-            <Fragment>
-              <span className="high-school-programs-text182">
-                Join a Chapter
-              </span>
-            </Fragment>
-          }
-          text64={
-            <Fragment>
-              <span className="high-school-programs-text183">Blog</span>
-            </Fragment>
-          }
-          text251={
-            <Fragment>
-              <span className="high-school-programs-text184">
-                Join over 3,500 chapters across the nation fighting for freedom.
-              </span>
-            </Fragment>
-          }
-          text331={
-            <Fragment>
-              <span className="high-school-programs-text185">
-                Press Inquiries
-              </span>
-            </Fragment>
-          }
-          text151={
-            <Fragment>
-              <span className="high-school-programs-text186"> Programs</span>
-            </Fragment>
-          }
-          text57={
-            <Fragment>
-              <span className="high-school-programs-text187">
-                Student Rights
-              </span>
-            </Fragment>
-          }
-          text531={
-            <Fragment>
-              <span className="high-school-programs-text188">
-                School Safety Initiatives
-              </span>
-            </Fragment>
-          }
-          text53={
-            <Fragment>
-              <span className="high-school-programs-text189">
-                School Safety Initiatives
-              </span>
-            </Fragment>
-          }
-          text71={
-            <Fragment>
-              <span className="high-school-programs-text190">Media</span>
-            </Fragment>
-          }
-          text481={
-            <Fragment>
-              <span className="high-school-programs-text191">Gear</span>
-            </Fragment>
-          }
-          text291={
-            <Fragment>
-              <span className="high-school-programs-text192">College</span>
-            </Fragment>
-          }
-          text11={
-            <Fragment>
-              <span className="high-school-programs-text193">Shop</span>
-            </Fragment>
-          }
-          text50={
-            <Fragment>
-              <span className="high-school-programs-text194">
-                Partner with Us
-              </span>
-            </Fragment>
-          }
-          text20={
-            <Fragment>
-              <span className="high-school-programs-text195">
-                {' '}
-                Latest Headlines
-              </span>
-            </Fragment>
-          }
-          text281={
-            <Fragment>
-              <span className="high-school-programs-text196">High School</span>
-            </Fragment>
-          }
-          text44={
-            <Fragment>
-              <span className="high-school-programs-text197">Students</span>
-            </Fragment>
-          }
-          text23={
-            <Fragment>
-              <span className="high-school-programs-text198"> Take Action</span>
-            </Fragment>
-          }
-          text62={
-            <Fragment>
-              <span className="high-school-programs-text199">Pricing</span>
-            </Fragment>
-          }
-          text35={
-            <Fragment>
-              <span className="high-school-programs-text200">F</span>
-            </Fragment>
-          }
-          text451={
-            <Fragment>
-              <span className="high-school-programs-text201">Educators</span>
-            </Fragment>
-          }
-          text24={
-            <Fragment>
-              <span className="high-school-programs-text202">Chapters</span>
-            </Fragment>
-          }
-          text421={
-            <Fragment>
-              <span className="high-school-programs-text203"> — Solution</span>
-            </Fragment>
-          }
-          text14={
-            <Fragment>
-              <span className="high-school-programs-text204">
-                {' '}
-                Student Network
-              </span>
-            </Fragment>
-          }
-          text561={
-            <Fragment>
-              <span className="high-school-programs-text205">
-                Parent Playbook
-              </span>
-            </Fragment>
-          }
-          text46={
-            <Fragment>
-              <span className="high-school-programs-text206">Reporting</span>
-            </Fragment>
-          }
-          text41={
-            <Fragment>
-              <span className="high-school-programs-text207">S</span>
-            </Fragment>
-          }
-          text501={
-            <Fragment>
-              <span className="high-school-programs-text208">
-                Partner with Us
-              </span>
-            </Fragment>
-          }
-          text55={
-            <Fragment>
-              <span className="high-school-programs-text209">
-                Transparency Envoy
-              </span>
-            </Fragment>
-          }
-          text321={
-            <Fragment>
-              <span className="high-school-programs-text210">Upcoming</span>
-            </Fragment>
-          }
-          text48={
-            <Fragment>
-              <span className="high-school-programs-text211">Gear</span>
-            </Fragment>
-          }
-          text201={
-            <Fragment>
-              <span className="high-school-programs-text212">
-                {' '}
-                Latest Headlines
-              </span>
+              <span className="high-school-programs-text104">Contact</span>
             </Fragment>
           }
           text4={
             <Fragment>
-              <span className="high-school-programs-text213">
+              <span className="high-school-programs-text105">
                 {' '}
                 Search
                 <span
@@ -676,89 +70,695 @@ const HighSchoolPrograms = (props) => {
               </span>
             </Fragment>
           }
-          text541={
+          text5={
             <Fragment>
-              <span className="high-school-programs-text214">
-                Educational Expansion
+              <span className="high-school-programs-text106">Community</span>
+            </Fragment>
+          }
+          text6={
+            <Fragment>
+              <span className="high-school-programs-text107">Events</span>
+            </Fragment>
+          }
+          text7={
+            <Fragment>
+              <span className="high-school-programs-text108">Media</span>
+            </Fragment>
+          }
+          text8={
+            <Fragment>
+              <span className="high-school-programs-text109">Movements</span>
+            </Fragment>
+          }
+          text9={
+            <Fragment>
+              <span className="high-school-programs-text110">News</span>
+            </Fragment>
+          }
+          text10={
+            <Fragment>
+              <span className="high-school-programs-text111">Resources</span>
+            </Fragment>
+          }
+          text11={
+            <Fragment>
+              <span className="high-school-programs-text112">Shop</span>
+            </Fragment>
+          }
+          text12={
+            <Fragment>
+              <span className="high-school-programs-text113">Get Involved</span>
+            </Fragment>
+          }
+          text13={
+            <Fragment>
+              <span className="high-school-programs-text114">Donate</span>
+            </Fragment>
+          }
+          text14={
+            <Fragment>
+              <span className="high-school-programs-text115">
+                {' '}
+                Student Network
               </span>
             </Fragment>
           }
-          text45={
+          text15={
             <Fragment>
-              <span className="high-school-programs-text215">Educators</span>
+              <span className="high-school-programs-text116"> Programs</span>
+            </Fragment>
+          }
+          text16={
+            <Fragment>
+              <span className="high-school-programs-text117"> Upcoming</span>
+            </Fragment>
+          }
+          text17={
+            <Fragment>
+              <span className="high-school-programs-text118"> Shows</span>
+            </Fragment>
+          }
+          text18={
+            <Fragment>
+              <span className="high-school-programs-text119"> Press</span>
+            </Fragment>
+          }
+          text19={
+            <Fragment>
+              <span className="high-school-programs-text120"> Our Method</span>
+            </Fragment>
+          }
+          text20={
+            <Fragment>
+              <span className="high-school-programs-text121">
+                {' '}
+                Latest Headlines
+              </span>
+            </Fragment>
+          }
+          text21={
+            <Fragment>
+              <span className="high-school-programs-text122">
+                {' '}
+                Activism Toolkit
+              </span>
+            </Fragment>
+          }
+          text22={
+            <Fragment>
+              <span className="high-school-programs-text123"> FAIS Store</span>
+            </Fragment>
+          }
+          text23={
+            <Fragment>
+              <span className="high-school-programs-text124"> Take Action</span>
+            </Fragment>
+          }
+          text24={
+            <Fragment>
+              <span className="high-school-programs-text125">Chapters</span>
+            </Fragment>
+          }
+          text25={
+            <Fragment>
+              <span className="high-school-programs-text126">
+                Join over 3,500 chapters across the nation fighting for freedom.
+              </span>
+            </Fragment>
+          }
+          text26={
+            <Fragment>
+              <span className="high-school-programs-text127">Summit</span>
+            </Fragment>
+          }
+          text27={
+            <Fragment>
+              <span className="high-school-programs-text128">
+                Join a Chapter
+              </span>
+            </Fragment>
+          }
+          text28={
+            <Fragment>
+              <span className="high-school-programs-text129">High School</span>
+            </Fragment>
+          }
+          text29={
+            <Fragment>
+              <span className="high-school-programs-text130">College</span>
+            </Fragment>
+          }
+          text30={
+            <Fragment>
+              <span className="high-school-programs-text131">
+                National Summit 2026
+              </span>
+            </Fragment>
+          }
+          text31={
+            <Fragment>
+              <span className="high-school-programs-text132">Upcoming</span>
+            </Fragment>
+          }
+          text32={
+            <Fragment>
+              <span className="high-school-programs-text133">Upcoming</span>
+            </Fragment>
+          }
+          text33={
+            <Fragment>
+              <span className="high-school-programs-text134">
+                Press Inquiries
+              </span>
+            </Fragment>
+          }
+          text34={
+            <Fragment>
+              <span className="high-school-programs-text135">Media Kit</span>
+            </Fragment>
+          }
+          text35={
+            <Fragment>
+              <span className="high-school-programs-text136">F</span>
+            </Fragment>
+          }
+          text36={
+            <Fragment>
+              <span className="high-school-programs-text137"> — Find</span>
+            </Fragment>
+          }
+          text37={
+            <Fragment>
+              <span className="high-school-programs-text138">A</span>
+            </Fragment>
+          }
+          text38={
+            <Fragment>
+              <span className="high-school-programs-text139"> — Assess</span>
+            </Fragment>
+          }
+          text39={
+            <Fragment>
+              <span className="high-school-programs-text140">I</span>
             </Fragment>
           }
           text40={
             <Fragment>
-              <span className="high-school-programs-text216"> — Initiate</span>
+              <span className="high-school-programs-text141"> — Initiate</span>
             </Fragment>
           }
-          text231={
+          text41={
             <Fragment>
-              <span className="high-school-programs-text217"> Take Action</span>
+              <span className="high-school-programs-text142">S</span>
             </Fragment>
           }
-          text5={
+          text42={
             <Fragment>
-              <span className="high-school-programs-text218">Community</span>
+              <span className="high-school-programs-text143"> — Solution</span>
             </Fragment>
           }
-          text241={
+          text43={
             <Fragment>
-              <span className="high-school-programs-text219">Chapters</span>
+              <span className="high-school-programs-text144">Parents</span>
             </Fragment>
           }
-          text191={
+          text44={
             <Fragment>
-              <span className="high-school-programs-text220"> Our Method</span>
+              <span className="high-school-programs-text145">Students</span>
             </Fragment>
           }
-          text181={
+          text45={
             <Fragment>
-              <span className="high-school-programs-text221"> Press</span>
+              <span className="high-school-programs-text146">Educators</span>
             </Fragment>
           }
-          text581={
+          text46={
             <Fragment>
-              <span className="high-school-programs-text222">
-                Educator Resources
+              <span className="high-school-programs-text147">Reporting</span>
+            </Fragment>
+          }
+          text47={
+            <Fragment>
+              <span className="high-school-programs-text148">Apparel</span>
+            </Fragment>
+          }
+          text48={
+            <Fragment>
+              <span className="high-school-programs-text149">Gear</span>
+            </Fragment>
+          }
+          text49={
+            <Fragment>
+              <span className="high-school-programs-text150">Volunteer</span>
+            </Fragment>
+          }
+          text50={
+            <Fragment>
+              <span className="high-school-programs-text151">
+                Partner with Us
               </span>
             </Fragment>
           }
-          text371={
+          text51={
             <Fragment>
-              <span className="high-school-programs-text223">A</span>
+              <span className="high-school-programs-text152">
+                Culture Apothecary
+              </span>
             </Fragment>
           }
-          text58={
+          text52={
             <Fragment>
-              <span className="high-school-programs-text224">
-                Educator Resources
+              <span className="high-school-programs-text153">
+                Education Watch
+              </span>
+            </Fragment>
+          }
+          text53={
+            <Fragment>
+              <span className="high-school-programs-text154">
+                School Safety Initiatives
               </span>
             </Fragment>
           }
           text54={
             <Fragment>
-              <span className="high-school-programs-text225">
+              <span className="high-school-programs-text155">
                 Educational Expansion
               </span>
             </Fragment>
           }
-          text43={
+          text55={
             <Fragment>
-              <span className="high-school-programs-text226">Parents</span>
+              <span className="high-school-programs-text156">
+                Transparency Envoy
+              </span>
             </Fragment>
           }
           text56={
             <Fragment>
-              <span className="high-school-programs-text227">
+              <span className="high-school-programs-text157">
                 Parent Playbook
               </span>
             </Fragment>
           }
-          text47={
+          text57={
             <Fragment>
-              <span className="high-school-programs-text228">Apparel</span>
+              <span className="high-school-programs-text158">
+                Student Rights
+              </span>
+            </Fragment>
+          }
+          text58={
+            <Fragment>
+              <span className="high-school-programs-text159">
+                Educator Resources
+              </span>
+            </Fragment>
+          }
+          text59={
+            <Fragment>
+              <span className="high-school-programs-text160">
+                Incident Portal
+              </span>
+            </Fragment>
+          }
+          text60={
+            <Fragment>
+              <span className="high-school-programs-text161">About</span>
+            </Fragment>
+          }
+          text61={
+            <Fragment>
+              <span className="high-school-programs-text162">Features</span>
+            </Fragment>
+          }
+          text62={
+            <Fragment>
+              <span className="high-school-programs-text163">Pricing</span>
+            </Fragment>
+          }
+          text63={
+            <Fragment>
+              <span className="high-school-programs-text164">Team</span>
+            </Fragment>
+          }
+          text64={
+            <Fragment>
+              <span className="high-school-programs-text165">Blog</span>
+            </Fragment>
+          }
+          text65={
+            <Fragment>
+              <span className="high-school-programs-text166">About</span>
+            </Fragment>
+          }
+          text66={
+            <Fragment>
+              <span className="high-school-programs-text167">Features</span>
+            </Fragment>
+          }
+          text67={
+            <Fragment>
+              <span className="high-school-programs-text168">Pricing</span>
+            </Fragment>
+          }
+          text68={
+            <Fragment>
+              <span className="high-school-programs-text169">Team</span>
+            </Fragment>
+          }
+          text69={
+            <Fragment>
+              <span className="high-school-programs-text170">Blog</span>
+            </Fragment>
+          }
+          text71={
+            <Fragment>
+              <span className="high-school-programs-text171">Media</span>
+            </Fragment>
+          }
+          text81={
+            <Fragment>
+              <span className="high-school-programs-text172">Movements</span>
+            </Fragment>
+          }
+          text91={
+            <Fragment>
+              <span className="high-school-programs-text173">News</span>
+            </Fragment>
+          }
+          text101={
+            <Fragment>
+              <span className="high-school-programs-text174">Resources</span>
+            </Fragment>
+          }
+          text110={
+            <Fragment>
+              <span className="high-school-programs-text175">FAIS</span>
+            </Fragment>
+          }
+          text111={
+            <Fragment>
+              <span className="high-school-programs-text176">Shop</span>
+            </Fragment>
+          }
+          text121={
+            <Fragment>
+              <span className="high-school-programs-text177">Get Involved</span>
+            </Fragment>
+          }
+          text131={
+            <Fragment>
+              <span className="high-school-programs-text178">Donate</span>
+            </Fragment>
+          }
+          text141={
+            <Fragment>
+              <span className="high-school-programs-text179">
+                {' '}
+                Student Network
+              </span>
+            </Fragment>
+          }
+          text151={
+            <Fragment>
+              <span className="high-school-programs-text180"> Programs</span>
+            </Fragment>
+          }
+          text161={
+            <Fragment>
+              <span className="high-school-programs-text181"> Upcoming</span>
+            </Fragment>
+          }
+          text171={
+            <Fragment>
+              <span className="high-school-programs-text182"> Shows</span>
+            </Fragment>
+          }
+          text181={
+            <Fragment>
+              <span className="high-school-programs-text183"> Press</span>
+            </Fragment>
+          }
+          text191={
+            <Fragment>
+              <span className="high-school-programs-text184"> Our Method</span>
+            </Fragment>
+          }
+          text201={
+            <Fragment>
+              <span className="high-school-programs-text185">
+                {' '}
+                Latest Headlines
+              </span>
+            </Fragment>
+          }
+          text210={
+            <Fragment>
+              <span className="high-school-programs-text186">
+                Fighting Antisemitism in Schools
+              </span>
+            </Fragment>
+          }
+          text211={
+            <Fragment>
+              <span className="high-school-programs-text187">
+                {' '}
+                Activism Toolkit
+              </span>
+            </Fragment>
+          }
+          text221={
+            <Fragment>
+              <span className="high-school-programs-text188"> FAIS Store</span>
+            </Fragment>
+          }
+          text231={
+            <Fragment>
+              <span className="high-school-programs-text189"> Take Action</span>
+            </Fragment>
+          }
+          text241={
+            <Fragment>
+              <span className="high-school-programs-text190">Chapters</span>
+            </Fragment>
+          }
+          text251={
+            <Fragment>
+              <span className="high-school-programs-text191">
+                Join over 3,500 chapters across the nation fighting for freedom.
+              </span>
+            </Fragment>
+          }
+          text261={
+            <Fragment>
+              <span className="high-school-programs-text192">Summit</span>
+            </Fragment>
+          }
+          text271={
+            <Fragment>
+              <span className="high-school-programs-text193">
+                Join a Chapter
+              </span>
+            </Fragment>
+          }
+          text281={
+            <Fragment>
+              <span className="high-school-programs-text194">High School</span>
+            </Fragment>
+          }
+          text291={
+            <Fragment>
+              <span className="high-school-programs-text195">College</span>
+            </Fragment>
+          }
+          text301={
+            <Fragment>
+              <span className="high-school-programs-text196">
+                National Summit 2026
+              </span>
+            </Fragment>
+          }
+          text311={
+            <Fragment>
+              <span className="high-school-programs-text197">Upcoming</span>
+            </Fragment>
+          }
+          text321={
+            <Fragment>
+              <span className="high-school-programs-text198">Upcoming</span>
+            </Fragment>
+          }
+          text331={
+            <Fragment>
+              <span className="high-school-programs-text199">
+                Press Inquiries
+              </span>
+            </Fragment>
+          }
+          text341={
+            <Fragment>
+              <span className="high-school-programs-text200">Media Kit</span>
+            </Fragment>
+          }
+          text351={
+            <Fragment>
+              <span className="high-school-programs-text201">F</span>
+            </Fragment>
+          }
+          text361={
+            <Fragment>
+              <span className="high-school-programs-text202"> — Find</span>
+            </Fragment>
+          }
+          text371={
+            <Fragment>
+              <span className="high-school-programs-text203">A</span>
+            </Fragment>
+          }
+          text381={
+            <Fragment>
+              <span className="high-school-programs-text204"> — Assess</span>
+            </Fragment>
+          }
+          text391={
+            <Fragment>
+              <span className="high-school-programs-text205">I</span>
+            </Fragment>
+          }
+          text401={
+            <Fragment>
+              <span className="high-school-programs-text206"> — Initiate</span>
+            </Fragment>
+          }
+          text411={
+            <Fragment>
+              <span className="high-school-programs-text207">S</span>
+            </Fragment>
+          }
+          text421={
+            <Fragment>
+              <span className="high-school-programs-text208"> — Solution</span>
+            </Fragment>
+          }
+          text431={
+            <Fragment>
+              <span className="high-school-programs-text209">Parents</span>
+            </Fragment>
+          }
+          text441={
+            <Fragment>
+              <span className="high-school-programs-text210">Students</span>
+            </Fragment>
+          }
+          text451={
+            <Fragment>
+              <span className="high-school-programs-text211">Educators</span>
+            </Fragment>
+          }
+          text461={
+            <Fragment>
+              <span className="high-school-programs-text212">Reporting</span>
+            </Fragment>
+          }
+          text471={
+            <Fragment>
+              <span className="high-school-programs-text213">Apparel</span>
+            </Fragment>
+          }
+          text481={
+            <Fragment>
+              <span className="high-school-programs-text214">Gear</span>
+            </Fragment>
+          }
+          text491={
+            <Fragment>
+              <span className="high-school-programs-text215">Volunteer</span>
+            </Fragment>
+          }
+          text501={
+            <Fragment>
+              <span className="high-school-programs-text216">
+                Partner with Us
+              </span>
+            </Fragment>
+          }
+          text510={
+            <Fragment>
+              <span className="high-school-programs-text217">Community</span>
+            </Fragment>
+          }
+          text511={
+            <Fragment>
+              <span className="high-school-programs-text218">
+                Culture Apothecary
+              </span>
+            </Fragment>
+          }
+          text521={
+            <Fragment>
+              <span className="high-school-programs-text219">
+                Education Watch
+              </span>
+            </Fragment>
+          }
+          text531={
+            <Fragment>
+              <span className="high-school-programs-text220">
+                School Safety Initiatives
+              </span>
+            </Fragment>
+          }
+          text541={
+            <Fragment>
+              <span className="high-school-programs-text221">
+                Educational Expansion
+              </span>
+            </Fragment>
+          }
+          text551={
+            <Fragment>
+              <span className="high-school-programs-text222">
+                Transparency Envoy
+              </span>
+            </Fragment>
+          }
+          text561={
+            <Fragment>
+              <span className="high-school-programs-text223">
+                Parent Playbook
+              </span>
+            </Fragment>
+          }
+          text571={
+            <Fragment>
+              <span className="high-school-programs-text224">
+                Student Rights
+              </span>
+            </Fragment>
+          }
+          text581={
+            <Fragment>
+              <span className="high-school-programs-text225">
+                Educator Resources
+              </span>
+            </Fragment>
+          }
+          text591={
+            <Fragment>
+              <span className="high-school-programs-text226">
+                Incident Portal
+              </span>
+            </Fragment>
+          }
+          text610={
+            <Fragment>
+              <span className="high-school-programs-text227">Events</span>
+            </Fragment>
+          }
+          register={
+            <Fragment>
+              <span className="high-school-programs-text228">Register</span>
             </Fragment>
           }
           rootClassName="header-componentroot-class-name8"
@@ -1025,66 +1025,64 @@ opacity: 0;}}
         <div className="high-school-programs-container6">
           <div className="high-school-programs-container7">
             <Script
-              html={`<script defer data-name="high-school-programs-scripts">
-(function(){
-  document.addEventListener("DOMContentLoaded", () => {
-    // Parallax effect for the impact section visual cards
-    const impactSection = document.querySelector(".goals-impact-section")
-    const cardTop = document.querySelector(".card-top")
-    const cardBottom = document.querySelector(".card-bottom")
+              html={`<script>
+  ;(function () {
+    document.addEventListener("DOMContentLoaded", () => {
+      // Parallax effect for hero image
+      const heroSection = document.querySelector(".hero-section")
+      const heroImg = document.querySelector(".hero-image-frame")
 
-    if (impactSection && cardTop && cardBottom) {
-      window.addEventListener("scroll", () => {
-        const scrollPosition = window.pageYOffset
-        const sectionOffset = impactSection.offsetTop
-        const viewportHeight = window.innerHeight
+      if (heroSection && heroImg) {
+        heroSection.addEventListener("mousemove", (e) => {
+          const { clientX, clientY } = e
+          const { innerWidth, innerHeight } = window
+          const moveX = (clientX - innerWidth / 2) / 50
+          const moveY = (clientY - innerHeight / 2) / 50
+          heroImg.style.transform = \`rotateY(\${-15 + moveX}deg) rotateX(\${5 + moveY}deg)\`
+        })
+      }
 
-        if (scrollPosition > sectionOffset - viewportHeight && scrollPosition < sectionOffset + impactSection.offsetHeight) {
-          const relativeScroll = scrollPosition - sectionOffset
-          cardTop.style.transform = \`translateY(\${relativeScroll * 0.05}px)\`
-          cardBottom.style.transform = \`translateY(\${relativeScroll * -0.05}px) scale(0.95)\`
-        }
-      })
-    }
+      // Scroll reveal observer
+      const observerOptions = {
+        threshold: 0.1,
+        rootMargin: "0px 0px -50px 0px",
+      }
 
-    // Smooth appearance for topic cards on scroll
-    const topicCards = document.querySelectorAll(".topic-card")
-    const observerOptions = {
-      threshold: 0.2,
-      rootMargin: "0px 0px -50px 0px",
-    }
-
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach((entry, index) => {
-        if (entry.isIntersecting) {
-          setTimeout(() => {
+      const revealObserver = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
             entry.target.style.opacity = "1"
             entry.target.style.transform = "translateY(0)"
-          }, index * 100)
-          observer.unobserve(entry.target)
-        }
-      })
-    }, observerOptions)
+            revealObserver.unobserve(entry.target)
+          }
+        })
+      }, observerOptions)
 
-    topicCards.forEach((card) => {
-      card.style.opacity = "0"
-      card.style.transform = "translateY(40px)"
-      card.style.transition = "all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1)"
-      observer.observe(card)
+      // Apply reveal to sections
+      const revealElements = document.querySelectorAll(
+        ".intro-content, .content-text, .content-visual, .callout-box"
+      )
+
+      revealElements.forEach((el) => {
+        el.style.opacity = "0"
+        el.style.transform = "translateY(40px)"
+        el.style.transition = "all 0.8s cubic-bezier(0.165, 0.84, 0.44, 1)"
+        revealObserver.observe(el)
+      })
+
+      // Smooth scroll for indicator
+      const scrollIndicator = document.querySelector(".hero-scroll-indicator")
+      if (scrollIndicator) {
+        scrollIndicator.style.cursor = "pointer"
+        scrollIndicator.addEventListener("click", () => {
+          const nextSection = document.querySelector(".intro-section")
+          if (nextSection) {
+            nextSection.scrollIntoView({ behavior: "smooth" })
+          }
+        })
+      }
     })
-
-    // CTA Button Interaction
-    const ctaBtn = document.querySelector(".cta-button-main")
-    if (ctaBtn) {
-      ctaBtn.addEventListener("mouseenter", () => {
-        ctaBtn.innerText = "Start Your Journey →"
-      })
-      ctaBtn.addEventListener("mouseleave", () => {
-        ctaBtn.innerText = "Apply for the Program"
-      })
-    }
-  })
-})()
+  })()
 </script>`}
             ></Script>
           </div>

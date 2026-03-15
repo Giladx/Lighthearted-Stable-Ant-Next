@@ -4,7 +4,6 @@ import Head from 'next/head'
 import { useTranslations } from 'next-intl'
 
 import HeaderComponent from '../components/header-component'
-import AppComponent from '../components/component'
 import Footer from '../components/footer'
 
 const Educate = (props) => {
@@ -714,7 +713,6 @@ const Educate = (props) => {
               <a href="#">
                 <div className="educate-container15">
                   <div className="educate-container16">
-                    <AppComponent imageSrc="https://images.unsplash.com/photo-1720131578918-6bd5e0b94150?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDN8fDEuJTIwVGhlJTIwUm9vdHMlMjBvZiUyMEFtZXJpY2FuJTIwQW50aXNlbWl0aXNtfGVufDB8fHx8MTc3MzE1MTk3NHww&amp;ixlib=rb-4.1.0&amp;w=1300"></AppComponent>
                     <span className="educate-text235">See more...</span>
                   </div>
                   <div className="educate-container17">
